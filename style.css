@@ -1,11 +1,11 @@
 
 .jumbotron-fluid {
-    text-align: center;
-    color: rgb(255, 255, 255);
+    text-align: left;
+    color: rgb(5, 0, 0);
 }
 
 .jumbotron.jumbotron-fluid {
-    background-color: rgb(10, 10, 68);
+    background-color: rgb(255, 255, 255);
     margin-bottom: 30px;
     padding: 20px;
    
