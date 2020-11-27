@@ -1,34 +1,7 @@
-
- p {
-     text-align: right;
- }
-h1 {
-    font-family: 'El Messiri', sans-serif;
-}
-
-.display-4 {
+.display-4{
     align-content: center;
+}
+
+.lead {
     text-align: center;
-    background-color: rgb(255, 0, 0);
-    padding: 20px;
-    width: 200px;
-    margin: 10px;
-}
-
-.jumbotron {
-  
-}
-
-.jumbotron.jumbotron-fluid {
-    color: rgb(255, 255, 255);
-    background-color: rgb(20, 24, 65);
- 
-}
-
-.nav {
-    float: right;
-}
-
-.nav-link {
-    color: white;
 }
